@@ -1,0 +1,13 @@
+DROP VIEW transactions_info;
+DROP VIEW character_owner;
+DROP TABLE Transactions;
+DROP TABLE Shop_offer;
+DROP TABLE Item;
+DROP TABLE nick_change_log;
+DROP TABLE Character;
+DROP TABLE Class;
+DROP TABLE Race;
+DROP TABLE Weapon;
+DROP TABLE Player;
+DROP TABLE Player_data;
+DROP TABLE Language;
